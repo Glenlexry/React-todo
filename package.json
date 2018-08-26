@@ -1,0 +1,27 @@
+{
+  "name": "todo-list",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.5.0",
+    "@material-ui/icons": "^2.0.2",
+    "belle": "^4.0.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-motion": "^0.5.2",
+    "react-scripts": "1.1.4",
+    "react-switch": "^3.0.4",
+    "react-toggle-button": "^2.2.0",
+    "react-toggle-switch": "^3.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "css-loader": "^1.0.0"
+  }
+}
